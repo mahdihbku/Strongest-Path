@@ -1,0 +1,4 @@
+Alice Karima 0.0208541:  Alice 0.125 Boualem 0.124875 Omar 0.0208541 Karima 
+Alice Hakim 0.00886612:  Alice 0.125 Boualem 0.124875 Omar 0.00886612 Hakim 
+Alice Mehdi 0.03125:  Alice 0.25 Bob 0.03125 Mehdi 
+Alice Moh 0.0624375:  Alice 0.125 Boualem 0.124875 Omar 0.0624375 Moh 
