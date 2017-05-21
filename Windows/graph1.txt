@@ -1,0 +1,15 @@
+Alice Boualem 0.125
+Bob Boualem 0.09
+Bob Mehdi 0.125
+Mehdi Moh 0.25
+Mehdi Karima 0.5
+Mehdi Hakim 0.14
+Karima Boualem 0.14
+Karima Omar 0.167
+Boualem Omar 0.999
+Omar Hakim 0.071
+Omar Moh 0.5
+Hakim Moh 0.071
+Moh Lokman 0.1
+Hakim Lokman 0.111
+Alice Bob 0.25
